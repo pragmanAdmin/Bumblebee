@@ -1,0 +1,10 @@
+torch
+fastapi
+uvicorn
+pydantic
+pytest
+pymongo
+pandas
+numpy
+transformers
+scikit-learn
